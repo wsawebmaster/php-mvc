@@ -1,0 +1,17 @@
+{
+  "description": "Projeto MVC",
+  "authors": [
+    {
+      "name": "Wagner Andrade",
+      "email": "wsawebmaster@yahoo.com.br",
+      "homepage": "https://www.linkedin.com/in/wsawebmaster/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core",
+      "App\\": "app"
+    }
+  }
+}

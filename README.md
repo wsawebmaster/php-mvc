@@ -13,7 +13,12 @@
 - JavaScript
 - PHP
 - MVC
+- Composer
 - Git e Github
+
+## 📝 Comandos
+
+    composer install
 
 ---
 ---
